@@ -1,5 +1,4 @@
 
-
 .fixed-header{
     padding-inline: 30px;
     background-color: magenta;
@@ -7,19 +6,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* position:fixed */
+    width: 100%;
 }
 
 .logo{
     font-size: x-large;
     font-family: cursive;
     margin: 0;
-}
-
-.navigation{
-    display: flex;
-    width: 50%;
-    height: 20px;
-    background-color: aqua;
+    font-weight: 700;
+    color: white;
+    line-height: 1rem;
+    cursor: pointer;
 }
 
 .buttons{
