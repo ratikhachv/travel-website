@@ -1,4 +1,4 @@
-import FixedHeader from "./modules/Header/FixedHeader/FixedHeader";
+import FixedHeader from "./genericComponents/Header/FixedHeader/FixedHeader";
 // import FixedHeaderTemplate from "./modules/Header/FixedHeader/FixedHeaderTemplate";
 
 
