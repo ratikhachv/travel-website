@@ -12,13 +12,34 @@
     border: 1px solid  #43B97F;
     border-radius: 5px;
 }
-h1{
+.MYBOOKING{
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     color: rgb(66, 66, 66);
     font-weight: 100;
 }
-h1:hover{
+
+.MYBOOKING:hover{
+    color: #43B97F;
+    cursor: pointer;
+}
+.MYPROFILE{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: rgb(66, 66, 66);
+    font-weight: 100;
+}
+.MYPROFILE:hover{
+    color: #43B97F;
+    cursor: pointer;
+}
+.LOGOUT{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: rgb(66, 66, 66);
+    font-weight: 100;
+}
+.LOGOUT:hover{
     color: #43B97F;
     cursor: pointer;
 }
