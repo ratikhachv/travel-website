@@ -2,13 +2,14 @@ import FixedHeader from "./genericComponents/Header/FixedHeader/FixedHeader";
 // import FixedHeaderTemplate from "./modules/Header/FixedHeader/FixedHeaderTemplate";
 
 // css
-import './css/reset.css'
-
+import "./css/reset.css";
 
 function App() {
-  return ( 
-    <FixedHeader/>
-   )
+  return (
+    <>
+      <FixedHeader />
+    </>
+  );
 }
 
 export default App;
