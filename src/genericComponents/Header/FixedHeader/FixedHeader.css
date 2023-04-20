@@ -8,6 +8,7 @@
     align-items: center;
     /* position:fixed */
     width: 100%;
+    position: fixed;
 }
 
 .logo{
@@ -20,10 +21,7 @@
     cursor: pointer;
 }
 
-.buttons{
-    width: 120px;
-    background-color: black;
-    height: 50px;
+.header-icons{
     display: flex;
     gap: 15px;
 }
