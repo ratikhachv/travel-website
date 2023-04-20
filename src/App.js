@@ -1,5 +1,5 @@
 import FixedHeader from "./genericComponents/Header/FixedHeader/FixedHeader";
-// import FixedHeaderTemplate from "./modules/Header/FixedHeader/FixedHeaderTemplate";
+// import FixedHeaderTemplate from "./modules/Header/FixedHeader/FixedHeaderTemplat
 
 // css
 import "./css/reset.css";
