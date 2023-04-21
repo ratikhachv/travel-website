@@ -1,5 +1,7 @@
 .footer-logo__text{
     margin-top: 1rem;
+    color: white;
+    
 }
 
 .footer-logo{
@@ -8,4 +10,11 @@
 
 .footer-logo__logo{
     line-height: normal;
+    font-size: x-large;
+    margin: 0;
+    font-weight: 700;
+    color: white;
+    line-height: 1rem;
+    cursor: pointer;
+    font-family: cursive;
 }
