@@ -1,0 +1,14 @@
+.social-media__icons {
+  display: flex;
+  gap: 5px;
+}
+.social-media__icons img {
+  cursor: pointer;
+}
+
+.social-media__wrapper p {
+  margin-bottom: 15px;
+  color: white;
+  font-weight: 700;
+  font-size: 19.2px;
+}
