@@ -9,9 +9,7 @@ import "./css/reset.css";
 function App() {
   return (
     <>
-    <StaticHeader/>
-      <FixedHeader />
-      <Footer/>
+    
     </>
   );
 }
