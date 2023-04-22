@@ -1,9 +1,9 @@
-.footer-links-div {
+.footer-column-div {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
-.footer-links-div h1 {
+.footer-column-div h1 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
@@ -12,7 +12,7 @@
   text-transform: capitalize;
   color: #ffffff;
 }
-.links-components ul {
+.column-components ul {
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -22,4 +22,5 @@
   font-size: 16px;
   line-height: 24px;
   color: #ffffff;
+  list-style: none;
 }
