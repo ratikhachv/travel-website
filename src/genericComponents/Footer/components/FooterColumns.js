@@ -5,11 +5,11 @@ export default function FooterColumns(props) {
       <h1>{props.columnTitle}</h1>
       <div className="column-components">
         <ul>
-          <li>{props.component1}component</li>
-          <li>{props.component2}component</li>
-          <li>{props.component3}component</li>
-          <li>{props.component4}component</li>
-          <li>{props.component5}component</li>
+          <li>{props.component1}ვიზუალის ნიმუში</li>
+          <li>{props.component2}ვიზუალის ნიმუში</li>
+          <li>{props.component3}ვიზუალის ნიმუში</li>
+          <li>{props.component4}ვიზუალის ნიმუში</li>
+          <li>{props.component5}ვიზუალის ნიმუში</li>
         </ul>
       </div>
     </div>

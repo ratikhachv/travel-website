@@ -1,5 +1,6 @@
 import React from "react";
 import "./FooterTemplate.css";
+
 export default function FooterTemplate(props) {
   return (
     <>

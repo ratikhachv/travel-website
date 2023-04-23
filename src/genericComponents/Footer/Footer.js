@@ -3,6 +3,7 @@ import FooterLogo from "./components/FooterLogo";
 import SocialMedia from "./components/SocialMedia";
 import FooterTemplate from "./FooterTemplate";
 import FooterColumns from "./components/FooterColumns";
+
 export default function Footer() {
   return (
     <>
