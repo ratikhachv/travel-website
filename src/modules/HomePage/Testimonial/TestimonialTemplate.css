@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Poppins", sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.section-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 180%;
+    color: #295943;
+}
+
+.testimonial-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 120%;
+    color: #3D3E48;
+}
+
+.testimonial-div {
+    width: 100%;
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonial-cards-divUp {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.testimonial-cards-divDown {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
