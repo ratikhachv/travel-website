@@ -9,15 +9,15 @@ function HomePage() {
   return (
     <>
       <HomePageTemplate
-
         // welcomeSection={<WelcomeSection />}
         // whyGeorgia={<WhyGeorgia />}
-        // topDestiantion={<TopDestination />}
+        topDestiantion={<TopDestination />}
         // testimonial={<Testimonial />}
       />
-      <TopDestinationTemplate/>
     </>
   );
 }
 
 export default HomePage;
+
+ //mariami
