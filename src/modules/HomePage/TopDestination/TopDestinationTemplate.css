@@ -1,0 +1,13 @@
+.box{
+    width: 380px;
+height: 363px;
+background: #000000;
+box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.TopDestinationTemplateSection{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
