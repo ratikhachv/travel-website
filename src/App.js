@@ -7,7 +7,7 @@ import Header from "./genericComponents/Header/Header";
 import "./css/reset.css";
 import "./css/General.css";
 import HomePage from "./pages/HomePage";
-import TestimonialCard from "./modules/HomePage/Testimonial/components/TestimonialCard";
+import TestimonialTemplate from "./modules/HomePage/Testimonial/TestimonialTemplate";
 
 function App() {
   return (
@@ -16,6 +16,8 @@ function App() {
       <HomePage />
       <TestimonialCard/>
       <Footer />
+
+      <TestimonialTemplate />
 
     </>
   );
