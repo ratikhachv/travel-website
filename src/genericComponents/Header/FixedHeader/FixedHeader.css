@@ -1,25 +1,24 @@
-
-.fixed-header{
-    padding-inline: 30px;
-    background-color: magenta;
-    padding-block: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
+.fixed-header {
+  padding-inline: 30px;
+  background-color: magenta;
+  padding-block: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
 
-.logo{
-    font-family: cursive;
-    font-size: x-large;
-    margin: 0;
-    font-weight: 700;
-    color: white;
-    line-height: 1rem;
-    cursor: pointer;
+.logo {
+  font-family: cursive;
+  font-size: x-large;
+  margin: 0;
+  font-weight: 700;
+  color: white;
+  line-height: 1rem;
+  cursor: pointer;
 }
 
-.header-icons{
-    display: flex;
-    gap: 15px;
+.header-icons {
+  display: flex;
+  gap: 15px;
 }
