@@ -14,8 +14,11 @@ function App() {
     <>
       <Header />
       <HomePage />
+      <TestimonialCard/>
       <Footer />
+
       <TestimonialTemplate />
+
     </>
   );
 }

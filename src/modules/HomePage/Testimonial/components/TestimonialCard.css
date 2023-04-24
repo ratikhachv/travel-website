@@ -1,0 +1,32 @@
+.reviewscard{
+    width: 380px;
+    height: 207px;
+    background-color: #43B97F;
+}
+.reviewsphotoandname{
+    display: flex;
+    align-items: center;
+}
+.reviewsphoto{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: RED;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.reviewsname{
+    width: 152px;
+    height: 28px;
+    margin-left: 10px;
+   
+    background-color: blueviolet;
+    display: inline-block;
+}
+.positivereviews{
+    width: 360px;
+    height: 87px;
+    background-color: green;
+    margin-top: 40px;
+    margin-left: 10px;
+}
