@@ -11,7 +11,7 @@ function HomePage() {
       <HomePageTemplate
         // welcomeSection={<WelcomeSection />}
         // whyGeorgia={<WhyGeorgia />}
-        topDestiantion={<TopDestination />}
+
         // testimonial={<Testimonial />}
       />
     </>
@@ -19,3 +19,5 @@ function HomePage() {
 }
 
 export default HomePage;
+
+ //mariami
