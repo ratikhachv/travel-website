@@ -11,7 +11,7 @@
 }
 .home-page {
   width: 100%;
-  height: 1000px;
+  /* height: 1000px; */
 }
 .welcome-georgia {
   width: 100%;
@@ -27,8 +27,8 @@
 .top-destination {
   margin-top: 10px;
   width: 100%;
-  height: 25%;
-  background-color: rgb(153, 237, 9);
+  /* height: 25%;
+  background-color: rgb(153, 237, 9); */
 }
 .testimonial {
   margin-top: 10px;

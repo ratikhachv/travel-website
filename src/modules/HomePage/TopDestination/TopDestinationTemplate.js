@@ -4,6 +4,11 @@ export default function TopDestinationTemplate(props) {
   return (
     <div className='TopDestinationTemplateSection'>
         {props.boxes}
+        {props.boxes}
+        {props.boxes}
+        {props.boxes}
+        {props.boxes}
+        {props.boxes}
     </div>
   )
 }
