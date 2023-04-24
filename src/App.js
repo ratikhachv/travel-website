@@ -7,13 +7,16 @@ import Header from "./genericComponents/Header/Header";
 import "./css/reset.css";
 import "./css/General.css";
 import HomePage from "./pages/HomePage";
+import TestimonialCard from "./modules/HomePage/Testimonial/components/TestimonialCard";
 
 function App() {
   return (
     <>
       <Header />
       <HomePage />
+      <TestimonialCard/>
       <Footer />
+
     </>
   );
 }
