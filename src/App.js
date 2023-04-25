@@ -8,12 +8,14 @@ import "./css/reset.css";
 import "./css/General.css";
 import HomePage from "./pages/HomePage";
 import TestimonialCard from "./modules/HomePage/Testimonial/components/TestimonialCard";
+import SearchBar from "./modules/HomePage/WelcomeSection/components/SearchBar";
 
 function App() {
   return (
     <>
       <Header />
       <HomePage />
+      <SearchBar/>
       <TestimonialCard/>
       <Footer />
 
