@@ -1,9 +1,23 @@
-import React from 'react'
+import React from "react";
+import HomePageTemplate from "../modules/HomePage/HomePageTemplate";
+import WelcomeSection from "../modules/HomePage/WelcomeSection/WelcomeSection";
+import WhyGeorgia from "../modules/HomePage/WhyGeorgia/WhyGeorgia";
+import TopDestination from "../modules/HomePage/TopDestination/TopDestination";
+import Testimonial from "../modules/HomePage/Testimonial/Testimonial";
 
 function HomePage() {
   return (
-    <div>HomePage</div>
-  )
+    <>
+      <HomePageTemplate
+        // welcomeSection={<WelcomeSection />}
+        // whyGeorgia={<WhyGeorgia />}
+        topDestination={<TopDestination/>}
+        // testimonial={<Testimonial />}
+      />
+    </>
+  );
 }
 
-export default HomePage
+export default HomePage;
+
+ //mariami

@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.top-destination-card {
+  width: 380px;
+  height: 363px;
+  background-color: blanchedalmond;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  background: #949191;
+  box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.top-destination-img {
+  width: 95%;
+  height: 70%;
+  margin-left: 9px;
+  border-radius: 10px;
+}
+.tour-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19.2px;
+  line-height: 180%;
+  color: #3d3e48;
+  margin-left: 15px;
+}
+.tour-price {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  color: #295943;
+}
+
+.tour-date {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 180%;
+  color: #3d3e48;
+}
+.tour-info {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15px;
+}
+.tour-date-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.arrow {
+  width: 18px;
+  height: 18px;
+}

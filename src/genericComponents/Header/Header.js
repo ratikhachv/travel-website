@@ -1,14 +1,14 @@
-import React from 'react'
-import FixedHeader from './FixedHeader/FixedHeader'
-import StaticHeader from './StaticHeader/StaticHeader'
+import React from "react";
+import FixedHeader from "./FixedHeader/FixedHeader";
+import StaticHeader from "./staticHeader/StaticHeader";
 
 function Header() {
   return (
     <header>
-       <StaticHeader/>
-       <FixedHeader/> 
+      <StaticHeader />
+      <FixedHeader />
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;
