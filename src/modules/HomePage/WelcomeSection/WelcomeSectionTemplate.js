@@ -1,5 +1,5 @@
 import "../../../modules/HomePage/WelcomeSection/WelcomeSectionTemplate.css";
-import video from "../../../assets/video.mp4";
+import video from "../../../assets/video1.mp4";
 export default function WelcomeSectionTemplate() {
   return (
     <div className="section-main-div">
