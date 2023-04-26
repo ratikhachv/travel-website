@@ -11,3 +11,40 @@ border-radius: 10px;
     flex-wrap: wrap;
     justify-content: center;
   }
+.TopDestination{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 180%;
+/* identical to box height, or 29px */
+
+text-transform: capitalize;
+
+/* Secondary */
+
+color: #295943;
+}
+.DiscoverYourLove{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27.65px;
+line-height: 120%;
+/* or 33px */
+
+
+/* TitleColor */
+
+color: #3D3E48;
+}
+#commonDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#mainDiv{
+  display: flex;
+    flex-direction: column;
+    gap: 60px;
+}

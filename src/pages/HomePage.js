@@ -9,6 +9,7 @@ function HomePage() {
   return (
     <>
       <HomePageTemplate
+
       // welcomeSection={<WelcomeSection />}
       // whyGeorgia={<WhyGeorgia />}
 
