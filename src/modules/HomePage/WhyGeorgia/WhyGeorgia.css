@@ -1,0 +1,11 @@
+.slider img {
+    width: 50%;
+    height: auto;
+  }
+  
+  .caption {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }

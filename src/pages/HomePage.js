@@ -10,7 +10,7 @@ function HomePage() {
     <>
       <HomePageTemplate
         // welcomeSection={<WelcomeSection />}
-        // whyGeorgia={<WhyGeorgia />}
+        whyGeorgia={<WhyGeorgia />}
         topDestination={<TopDestination/>}
         // testimonial={<Testimonial />}
       />
