@@ -1,6 +1,6 @@
 import "../HomePage/HomePageTemplate.css";
+import "../../modules/HomePage/TopDestination/components/TopDestiantionCard";
 import React from "react";
-
 export default function HomePageTemplate(props) {
   return (
     <div className="home-page">
