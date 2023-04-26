@@ -7,7 +7,6 @@ import Header from "./genericComponents/Header/Header";
 import "./css/reset.css";
 import "./css/General.css";
 import HomePage from "./pages/HomePage";
-import WelcomeSectionTemplate from "./modules/HomePage/WelcomeSection/WelcomeSectionTemplate";
 
 function App() {
   return (
@@ -15,7 +14,6 @@ function App() {
       <Header />
       <HomePage />
       <Footer />
-      <WelcomeSectionTemplate />
     </>
   );
 }
