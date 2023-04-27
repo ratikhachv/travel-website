@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Dancing+Script&family=Nunito+Sans&family=Outfit&family=Overpass&family=Pacifico&family=Poppins&family=Roboto+Slab:wght@500&display=swap');
 
-.searchbardiv{
+.searchbardiv {
     width: 780px;
     height: 67px;
     background-color: white;
@@ -8,19 +8,24 @@
     box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.25);
     display: flex;
     align-items: center;
+    opacity: 0.7;
+    margin-top: 40px;
 }
-.location{
+
+.location {
     margin-left: 23px;
     margin-right: 22px;
-   
+
 }
-.inputs{
+
+.inputs {
     Width: 757px;
     Height: 49px;
     display: flex;
     align-items: center;
 }
-.cityordestination{
+
+.cityordestination {
     Width: 150px;
     Height: 29px;
     margin-right: 71px;
@@ -33,7 +38,8 @@
     border: none;
     outline: none;
 }
-.dateofstayDIV{
+
+.dateofstayDIV {
     width: 116px;
     height: 50px;
     margin-right: 60px;
@@ -42,7 +48,8 @@
     align-items: center;
     border-left: solid black 1px;
 }
-.dateofstay{
+
+.dateofstay {
     width: 96px;
     height: 29px;
     font-family: 'Poppins';
@@ -54,7 +61,8 @@
     border: none;
     outline: none;
 }
-.personDIV{
+
+.personDIV {
     width: 74px;
     height: 49px;
     margin-right: 70px;
@@ -63,7 +71,8 @@
     align-items: center;
     border-left: solid black 1px;
 }
-.person{
+
+.person {
     width: 54px;
     height: 29px;
     font-family: 'Poppins';
@@ -75,7 +84,8 @@
     border: none;
     outline: none;
 }
-.findtripnow{
+
+.findtripnow {
     width: 168px;
     height: 49px;
     display: flex;
@@ -89,7 +99,9 @@
     color: #FFFFFF;
     background-color: #43B97F;
     border-radius: 10px;
+    cursor: pointer;
 }
-.findtrip{
+
+.findtrip {
     margin-left: 9px;
 }
