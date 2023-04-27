@@ -11,13 +11,9 @@ import TestimonialTemplate from "./modules/HomePage/Testimonial/TestimonialTempl
 function App() {
   return (
     <>
-      <Header />
-      <HomePage />
-      <TestimonialCard/>
-      <Footer />
-
-      <TestimonialTemplate />
-
+      <Header/>
+      <HomePage/>
+      <Footer/>
     </>
   );
 }
