@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Dancing+Script&family=Nunito+Sans&family=Outfit&family=Overpass&family=Pacifico&family=Poppins&family=Roboto+Slab:wght@500&display=swap');
 .reviewscard{
     width: 380px;
     height: 207px;
@@ -19,13 +20,22 @@
     width: 152px;
     height: 28px;
     margin-left: 10px;
-   
+    font-family: "Poppins";
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 120%;
+    color: white;
     background-color: blueviolet;
     display: inline-block;
 }
 .positivereviews{
     width: 360px;
     height: 87px;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 180%;
+    color: white;
     background-color: green;
     margin-top: 40px;
     margin-left: 10px;

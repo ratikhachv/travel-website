@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Dancing+Script&family=Nunito+Sans&family=Outfit&family=Overpass&family=Pacifico&family=Poppins&family=Roboto+Slab:wght@500&display=swap');
+
+.searchbardiv {
+    width: 780px;
+    height: 67px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+    margin-top: 40px;
+}
+
+.location {
+    margin-left: 23px;
+    margin-right: 22px;
+
+}
+
+.inputs {
+    Width: 757px;
+    Height: 49px;
+    display: flex;
+    align-items: center;
+}
+
+.cityordestination {
+    Width: 150px;
+    Height: 29px;
+    margin-right: 71px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: #3D3E48;
+    border: none;
+    outline: none;
+}
+
+.dateofstayDIV {
+    width: 116px;
+    height: 50px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: solid black 1px;
+}
+
+.dateofstay {
+    width: 96px;
+    height: 29px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: black;
+    border: none;
+    outline: none;
+}
+
+.personDIV {
+    width: 74px;
+    height: 49px;
+    margin-right: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: solid black 1px;
+}
+
+.person {
+    width: 54px;
+    height: 29px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: black;
+    border: none;
+    outline: none;
+}
+
+.findtripnow {
+    width: 168px;
+    height: 49px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: #FFFFFF;
+    background-color: #43B97F;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.findtrip {
+    margin-left: 9px;
+}
