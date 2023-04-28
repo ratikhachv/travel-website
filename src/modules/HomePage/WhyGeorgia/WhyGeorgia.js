@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import WhyGeorgiaTemplate from './WhyGeorgiaTemplate';
 import './WhyGeorgia.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Carousel } from 'react-bootstrap';
+import { Carousel } from 'react-bootstrap'
 export default function WhyGeorgia() {
   const SliderWithCaptions = () => {
     const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
