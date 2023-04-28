@@ -9,10 +9,8 @@ import "./css/General.css";
 function App() {
   return (
     <>
-      {/* <Header /> */}
-      {/* <HomePage /> */}
 
-      {/* <Footer /> */}
+
     </>
   );
 }

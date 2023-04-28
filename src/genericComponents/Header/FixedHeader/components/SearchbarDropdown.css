@@ -28,6 +28,7 @@
   right: 7px;
   width: 580px;
   height: 70px;
+  z-index: 1000;
   border-radius: 5px;
   justify-content: center;
   align-items: center;
