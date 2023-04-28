@@ -10,10 +10,8 @@ import InfoMap from "./modules/ContactPage/InfoSection/components/InfoMap";
 function App() {
   return (
     <>
-      {/* <Header /> */}
-      {/* <HomePage /> */}
 
-      {/* <Footer /> */}
+
     </>
   );
 }
