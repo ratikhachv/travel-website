@@ -9,16 +9,10 @@ import HomePage from "./pages/HomePage";
 function App() {
   return (
     <>
-<<<<<<< HEAD
-      <Header/>
-      <HomePage/>
-      <Footer/>
-=======
       <Header />
       <HomePage />
 
       <Footer />
->>>>>>> 63acc71a34ec1802522c2a3f33dd04aaa10f550c
     </>
   );
 }
