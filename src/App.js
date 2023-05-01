@@ -3,11 +3,9 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
-import ContactPage from "./pages/ContactPage";
 function App() {
   return (
     <>
-<ContactPage/>
    
     </>
   );
