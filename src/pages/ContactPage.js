@@ -9,7 +9,7 @@ export default function ContactPage() {
     <>
       <ContactPageTemplate
         // fixedHeader={<FixedHeader />}
-        pagesHeading={<PagesHeading />}
+        // pagesHeading={<PagesHeading />}
         // formSection={<FormSection />}
         // infoSection={<InfoSection />}
       />

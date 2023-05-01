@@ -3,15 +3,12 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
-import ContactPage from "./pages/ContactPage";
-import HomePage from "./pages/HomePage";
+
 
 function App() {
   return (
     <>
-   
-   {/* <HomePage/> */}
-   <ContactPage/>
+
    
     </>
   );
