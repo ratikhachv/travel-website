@@ -3,11 +3,11 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
-
+import FormSection from "./modules/ContactPage/FormSection/FormSection";
 function App() {
   return (
     <>
-
+<FormSection/>
    
     </>
   );
