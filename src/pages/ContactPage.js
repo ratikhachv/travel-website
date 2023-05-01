@@ -7,9 +7,7 @@ export default function ContactPage() {
   return (
     <>
       <ContactPageTemplate
-        pagesHeading={<PagesHeading />}
-        formSection={<FormSection />}
-        infoSection={<InfoSection />}
+
       />
     </>
   );

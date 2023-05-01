@@ -1,0 +1,35 @@
+.input-P-tag{
+    display: flex;
+    flex-direction: column;
+}
+.InputFormDiv{
+    width: 580px;
+}
+.nameInputTag{
+    height: 57px;
+    border: 1px solid #A8A7AB;
+border-radius: 10px;
+padding-left: 29px;
+}
+.nameInputTag::placeholder{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+color: #A8A7AB;
+}
+.emailInputTag{
+    height: 57px;
+    border: 1px solid #A8A7AB;
+border-radius: 10px;
+padding-left: 29px;
+}
+.emailInputTag::placeholder{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+color: #A8A7AB;
+}
