@@ -4,16 +4,10 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
-import InfoMap from "./modules/ContactPage/InfoSection/components/InfoMap";
 // import HomePage from "./pages/HomePage";
 
 function App() {
-  return (
-    <>
-
-
-    </>
-  );
+  return <></>;
 }
 
 export default App;
