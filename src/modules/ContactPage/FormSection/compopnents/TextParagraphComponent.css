@@ -1,0 +1,32 @@
+.headingP-tag{
+    font-style: normal;
+font-weight: 700;
+font-size: 27.65px;
+line-height: 120%;
+/* or 33px */
+
+
+/* TitleColor */
+
+color: #3D3E48;
+
+}
+.textLorem{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+
+
+/* TitleColor */
+
+color: #3D3E48;
+}
+.headingParagraphDiv{
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
