@@ -11,15 +11,16 @@ export default function NewsPageTemplate(props) {
         </p>
         <div className="nav-div">
           <ul>
-            <li>{props.navComp}bbbbbbb</li>
+            {/* <li>{props.navComp}bbbbbbb</li>
             <li>{props.navComp}bbbbbb</li>
             <li>{props.navComp}bbbb</li>
             <li>{props.navComp}bbbbbbbb</li>
-            <li>{props.navComp}bbbbb</li>
+            <li>{props.navComp}bbbbb</li> */}
           </ul>
         </div>
       </div>
       <section className="card-section">
+        {/* <div className="card">{props.cardComp}</div>
         <div className="card">{props.cardComp}</div>
         <div className="card">{props.cardComp}</div>
         <div className="card">{props.cardComp}</div>
@@ -27,8 +28,7 @@ export default function NewsPageTemplate(props) {
         <div className="card">{props.cardComp}</div>
         <div className="card">{props.cardComp}</div>
         <div className="card">{props.cardComp}</div>
-        <div className="card">{props.cardComp}</div>
-        <div className="card">{props.cardComp}</div>
+        <div className="card">{props.cardComp}</div> */}
       </section>
     </div>
   );

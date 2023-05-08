@@ -3,10 +3,10 @@ import PagesHeading from "../genericComponents/PagesHeading/PagesHeading";
 export default function NewaPage() {
   return (
     <>
-      <NewsPageTemplate
+      {/* <NewsPageTemplate
         pagesHeading={<PagesHeading />}
         newsSection={<NewsSection />}
-      />
+      /> */}
     </>
   );
 }
