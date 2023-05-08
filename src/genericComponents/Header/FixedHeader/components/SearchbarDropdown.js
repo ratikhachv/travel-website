@@ -16,7 +16,11 @@ export default function SearchbarDropdown() {
 
       {search && (
         <div className="searchDiv">
-          <input className="header-searchbar" type="text" placeholder="&nbsp;Search.." />
+          <input
+            className="header-searchbar"
+            type="text"
+            placeholder="&nbsp;Search.."
+          />
           <button className="header-search__btn">Search</button>
         </div>
       )}
