@@ -6,7 +6,8 @@ import "./css/General.css";
 
 
 function App() {
-  return <></>;
+  return <>
+  </>;
 
 
 }
