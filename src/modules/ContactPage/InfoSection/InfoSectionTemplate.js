@@ -3,11 +3,10 @@ import "./InfoSectionTemplate.css";
 export default function InfoSectionTemplate(props) {
   return (
     <>
-      <div className="section-div">
+      <div className="info-section-div">
         {props.mapComponent}
         {props.formComponent}
       </div>
-      ;
     </>
   );
 }
