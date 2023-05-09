@@ -7,7 +7,9 @@ import ContactPage from "./pages/ContactPage";
 import "./css/reset.css";
 import "./css/General.css";
 
+
 function App() {
+<<<<<<< HEAD
   return (
     <>
       <Header />
@@ -17,6 +19,11 @@ function App() {
       <Footer />
     </>
   );
+=======
+  return <></>;
+
+
+>>>>>>> c4ac14e553ad3f1216d75b0f006a8e2468947567
 }
 
 export default App;
