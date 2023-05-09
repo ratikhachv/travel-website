@@ -4,7 +4,9 @@
   background-color: #295943;
   display: flex;
   flex-direction: column;
+  margin-top: 100px;
 }
+
 .footerNaviation {
   width: 100%;
   height: 65%;
@@ -13,6 +15,7 @@
   justify-content: space-between;
   padding: 30px 50px;
 }
+
 .iconsDiv {
   width: 100%;
   height: 35%;

@@ -1,3 +1,4 @@
+
 import React from 'react'
 import card from "../../../../assets/card.jpg"
 import "./CardComponent.css"

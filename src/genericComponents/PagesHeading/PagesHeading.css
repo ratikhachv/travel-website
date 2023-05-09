@@ -11,21 +11,21 @@
     width: 100%;
 }
 
-.heading-img {
+.heading-image {
     width: 100%;
     position: relative;
 }
 
-.title {
+.heading-title {
     position: absolute;
-    top: 70px;
+    top: 170px;
     left: 150px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 33.18px;
     line-height: 120%;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .heading-img {

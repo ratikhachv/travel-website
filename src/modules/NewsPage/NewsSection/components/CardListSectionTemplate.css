@@ -7,6 +7,10 @@
     font-family: "Poppins", sans-serif;
 }
 
-main {
-    width: 100%;
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 65px;
 }

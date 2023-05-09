@@ -3,12 +3,12 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
+
+
 function App() {
-  return (
-    <>
-    
-    </>
-  );
+  return <></>;
+
+
 }
 
 export default App;
