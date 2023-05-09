@@ -1,13 +1,14 @@
 .fixed-header {
   padding-inline: 30px;
   background-color: magenta;
-  padding-block: 15px;
+  padding-block: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
   /* needs to be fixed on scroll not relative */
   position: relative;
+
 }
 
 .logo {

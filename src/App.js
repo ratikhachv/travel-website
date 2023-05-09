@@ -8,7 +8,14 @@ import "./css/reset.css";
 import "./css/General.css";
 
 function App() {
-  return <>git</>;
+  return (
+    <>
+      {/* <Header /> */}
+      {/* <ContactPage /> */}
+      {/* <NewsPage /> */}
+      {/* <Footer /> */}
+    </>
+  );
 }
 
 export default App;
