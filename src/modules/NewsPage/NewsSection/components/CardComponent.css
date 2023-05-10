@@ -1,5 +1,10 @@
 .cardDiv {
     margin: 0 auto;
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
 }
 
 .cardImg {
@@ -13,11 +18,6 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 180%;
-    /* identical to box height, or 29px */
-
-
-    /* TitleColor */
-
     color: #3D3E48;
 }
 
@@ -27,6 +27,5 @@
     font-weight: 400;
     font-size: 19.2px;
     line-height: 180%;
-
     color: #000000;
 }
