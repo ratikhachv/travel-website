@@ -1,0 +1,29 @@
+.team-card {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.person-image {
+    width: 200px;
+    height: 247px;
+}
+
+.person-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.2px;
+    line-height: 180%;
+    color: #000000;
+}
+
+.person-profesion {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: #3D3E48;
+}

@@ -1,5 +1,5 @@
 import React from 'react'
-import group from "./assets/Group.png"
+import group from "../../../../assets/Group.png"
 import "./WhyChooseItem.css"
 export default function WhyChooseItem(props) {
   return (
