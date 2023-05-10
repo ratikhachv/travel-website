@@ -1,0 +1,15 @@
+.geoFlag{
+    height: 25px;
+    width: 30px;
+}
+
+.dropdown-container{
+    display: flex;
+    height: 25px;
+    justify-content: center;
+}
+
+.usdIcon{
+    height: 25px;
+    width: 25px;
+}
