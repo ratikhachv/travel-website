@@ -34,7 +34,6 @@ export default function WhyGeorgiaTemplate() {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-          
     </>
   );
 }

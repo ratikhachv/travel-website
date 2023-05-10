@@ -1,26 +1,27 @@
-
-.cardDiv{
->>>
-
+.cardDiv {
+    margin: 0 auto;
 }
-.cardImg{
+
+.cardImg {
     width: 380px;
     border-radius: 10px;
 }
-.cardDate{
+
+.cardDate {
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 180%;
-/* identical to box height, or 29px */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    /* identical to box height, or 29px */
 
 
-/* TitleColor */
+    /* TitleColor */
 
-color: #3D3E48;
+    color: #3D3E48;
 }
-.cardText{
+
+.cardText {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;

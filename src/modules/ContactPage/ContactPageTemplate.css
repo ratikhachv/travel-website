@@ -7,7 +7,11 @@
     font-family: "Poppins", sans-serif;
 }
 
-.section-div {
+.contactPage-section-div {
     display: flex;
-    gap: 20px;
+    justify-content: space-around;
+    margin-left: 30px;
+    width: 100%;
+    gap: 40px;
+    margin-top: 100px;
 }
