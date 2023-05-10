@@ -9,4 +9,5 @@ export default function OurTeamTemplate(props) {
       {props.teamCard}
     </section>
   );
+
 }
