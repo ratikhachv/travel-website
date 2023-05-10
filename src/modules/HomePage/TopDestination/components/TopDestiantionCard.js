@@ -4,13 +4,13 @@ import arrow from "../../../../assets/Vector.png";
 export default function TopDestinationCard(props) {
   return (
     <div className="top-destination-card">
-      <img className="top-destination-img" src={props.img} alt="tourImage" />
-      <h1 className="tour-title">{props.title}</h1>
+      <img className="top-destination-img" src={img} alt="tourImage" />
+      <h1 className="tour-title">{props.title}hrhrh</h1>
       <div className="tour-info">
-        <p className="tour-price">{props.price}</p>
+        <p className="tour-price">{props.price}657</p>
         <div className="tour-date-div">
           <img className="arrow" src={arrow} alt="arrowImage" />
-          <p className="tour-date">{props.date}</p>
+          <p className="tour-date">{props.date}843756</p>
         </div>
       </div>
     </div>
