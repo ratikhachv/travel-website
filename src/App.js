@@ -6,7 +6,6 @@
 // css
 import "./css/reset.css";
 import "./css/General.css";
-import WhyChooseUs from "./modules/AboutUsPage/WhyChooseUs/WhyChooseUs";
 function App() {
 
   return (
@@ -15,7 +14,6 @@ function App() {
       {/* <ContactPage /> */}
       {/* <NewsPage /> */}
       {/* <Footer /> */}
-      <WhyChooseUs/>
     </>
   );
 
