@@ -8,7 +8,11 @@ import "./css/reset.css";
 import "./css/General.css";
 
 function App() {
-  return <>git</>;
+
+  return <>
+  </>;
+
+
 }
 
 export default App;
