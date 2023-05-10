@@ -6,7 +6,6 @@ import ContactPage from "./pages/ContactPage";
 // css
 import "./css/reset.css";
 import "./css/General.css";
-import OurTeamTemplate from "./modules/AboutUsPage/OurTeam/OurTeamTemplate";
 
 function App() {
 
