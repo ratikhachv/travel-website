@@ -11,11 +11,12 @@ function App() {
 
   return (
     <>
+    adsdasd
       {/* <Header />
       <ContactPage />
       <NewsPage />
       <Footer /> */}
-      <OurTeamTemplate/>
+
     </>
   );
 
