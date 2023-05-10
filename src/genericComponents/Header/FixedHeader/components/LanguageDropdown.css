@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .geoFlag {
     height: 18px;
     width: 25px;
@@ -12,6 +13,20 @@
 }
 
 .usdIcon {
+=======
+.geoFlag{
+    height: 25px;
+    width: 30px;
+}
+
+.dropdown-container{
+    display: flex;
+    height: 25px;
+    justify-content: center;
+}
+
+.usdIcon{
+>>>>>>> 8daef4803b3813adb54de92ec467088a327262b8
     height: 25px;
     width: 25px;
 }
