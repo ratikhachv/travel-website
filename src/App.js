@@ -11,7 +11,6 @@ import "./css/General.css";
 function App() {
   return (
     <>
-      test
       {/* <Header /> */}
       {/* <HomePage /> */}
       {/* <ContactPage /> */}
