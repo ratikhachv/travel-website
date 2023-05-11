@@ -1,14 +1,15 @@
 .cardDiv {
     margin: 0 auto;
-    width: 380px;
+    width: 360px;
     display: flex;
     flex-direction: column;
     gap: 20px;
+    margin-top: 50px;
 
 }
 
 .cardImg {
-    width: 380px;
+    width: 350px;
     border-radius: 10px;
 }
 
