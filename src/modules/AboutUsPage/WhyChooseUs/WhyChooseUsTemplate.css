@@ -1,5 +1,5 @@
-.WhyChooseUsDiv {
 
+.WhyChooseUsDiv {
     width: 100%;
     height: 386px;
 }
@@ -37,6 +37,7 @@
 }
 
 .upDiv {
+
     width: 100%;
     height: 25%;
     display: flex;
@@ -45,7 +46,9 @@
     align-items: center;
 }
 
+
 .downDiv {
+
     height: 75%;
     width: 100%;
     display: flex;
