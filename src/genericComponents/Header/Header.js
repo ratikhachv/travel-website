@@ -1,6 +1,6 @@
-import React from "react";
-import FixedHeader from "./FixedHeader/FixedHeader";
-import StaticHeader from "./staticHeader/StaticHeader";
+// import React from "react";
+// import FixedHeader from "./FixedHeader/FixedHeader";
+// import StaticHeader from "./StaticHeader/StaticHeader";
 
 function Header() {
   return (

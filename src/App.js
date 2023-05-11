@@ -1,3 +1,4 @@
+// components
 // import Footer from "./genericComponents/Footer/Footer";
 // import Header from "./genericComponents/Header/Header";
 // import HomePage from "./pages/HomePage";
@@ -11,7 +12,6 @@ import "./css/General.css";
 function App() {
   return (
     <>
-      test
       {/* <Header /> */}
       {/* <HomePage /> */}
       {/* <ContactPage /> */}
