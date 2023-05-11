@@ -1,48 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Dancing+Script&family=Nunito+Sans&family=Outfit&family=Overpass&family=Pacifico&family=Poppins&family=Roboto+Slab:wght@500&display=swap');
-
-.reviewscard {
-    width: 380px;
+.reviews-card {
+    width: 350px;
     height: 207px;
-    background-color: #43B97F;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
     margin: 0 auto;
+
 }
 
-.reviewsphotoandname {
+.reviews-card:hover {
+    background-color: #43B97F;
+}
+
+.photo-name-div {
     display: flex;
     align-items: center;
 }
 
-.reviewsphoto {
+.reviews-photo {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: RED;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
-.reviewsname {
-    width: 152px;
-    height: 28px;
+.reviews-name {
     margin-left: 10px;
     font-family: "Poppins";
     font-size: 23px;
     font-weight: 700;
     line-height: 120%;
-    color: white;
-    background-color: blueviolet;
-    display: inline-block;
+    color: rgb(0, 0, 0);
 }
 
-.positivereviews {
-    width: 360px;
-    height: 87px;
-    font-family: "Poppins";
-    font-size: 16px;
+.positive-text {
+    width: 90%;
+    margin-left: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
     font-weight: 400;
+    font-size: 16px;
     line-height: 180%;
-    color: white;
-    background-color: green;
-    margin-top: 40px;
-    margin-left: 10px;
+    color: #3D3E48;
 }

@@ -6,12 +6,12 @@ export default function TestimonialTemplate(props) {
       <span className="section-name">Testimonial</span>
       <h1 className="testimonial-title">What they say about us</h1>
       <div className="testimonial-cards-div">
-        <div className="testimonial-card">{props.review1}</div>
-        <div className="testimonial-card">{props.review2}</div>
-        <div className="testimonial-card">{props.review3}</div>
-        <div className="testimonial-card">{props.review4}</div>
-        <div className="testimonial-card">{props.review5}</div>
-        <div className="testimonial-card">{props.review6}</div>
+        {props.review1}
+        {props.review2}
+        {props.review3}
+        {props.review4}
+        {props.review5}
+        {props.review6}
       </div>
     </div>
   );
