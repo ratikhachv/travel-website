@@ -1,0 +1,7 @@
+.discover-page-div {
+    width: 95%;
+    display: flex;
+    margin-top: 60px;
+    gap: 20px;
+    margin-left: 30px;
+}

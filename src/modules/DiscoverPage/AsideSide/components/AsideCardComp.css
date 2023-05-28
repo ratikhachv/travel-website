@@ -1,0 +1,50 @@
+.asid-card-div {
+    width: 100%;
+    position: relative;
+}
+
+.asid-card-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 180%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    width: 85%;
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+.aside-background-img {
+    width: 395px;
+    height: 255px;
+}
+
+.asid-card-location-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 180%;
+    color: #FFFFFF;
+    position: absolute;
+    top: 125px;
+    left: 20px
+}
+
+.asid-view-more-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 180px;
+    left: 20px;
+    padding: 15px;
+    background-color: #43B97F;
+    border-radius: 8px;
+    cursor: pointer;
+}

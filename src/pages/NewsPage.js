@@ -3,7 +3,7 @@ import PagesHeading from "../genericComponents/PagesHeading/PagesHeading";
 import NewsSection from "../modules/NewsPage/NewsSection/NewsSection";
 import NewsPageTemplate from "../modules/NewsPage/NewsPageTemplate";
 
-export default function NewaPage() {
+export default function NewsPage() {
   return (
     <>
       <NewsPageTemplate
