@@ -1,0 +1,12 @@
+.two-photo-div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.img-copm {
+    width: 380px;
+    height: 283px;
+    border-radius: 5px;
+}

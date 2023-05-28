@@ -1,0 +1,34 @@
+.asid-cards-list-div {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.other-directions-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.2px;
+    color: #3D3E48;
+}
+
+.see-all {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.2px;
+    color: #43B97F;
+}
+
+.asid-list-text-div {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.asid-cards-list-main-div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
