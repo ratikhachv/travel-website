@@ -1,11 +1,11 @@
 import React from "react";
 import FixedHeader from "./FixedHeader/FixedHeader";
-import StaticHeader from "./StaticHeader/StaticHeader";
+// import StaticHeader from "./StaticHeader/StaticHeader";
 
 function Header() {
   return (
     <header>
-      <StaticHeader />
+      {/* <StaticHeader /> */}
       <FixedHeader />
     </header>
   );
