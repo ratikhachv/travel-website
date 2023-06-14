@@ -1,7 +1,22 @@
 .toursPageContainer {
     width: 80%;
-    height: 700px;
     margin: 0 auto;
     margin-top: 50px;
-    border: solid black 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.filterDiv {
+    padding: 20px;
+
+}
+
+.insiderightContainer {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: end;
 }
